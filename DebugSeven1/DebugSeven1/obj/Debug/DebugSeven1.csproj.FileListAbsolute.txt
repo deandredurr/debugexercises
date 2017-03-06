@@ -1,0 +1,6 @@
+c:\users\cleveland codes\documents\visual studio 2015\Projects\DebugSeven1\DebugSeven1\bin\Debug\DebugSeven1.exe.config
+c:\users\cleveland codes\documents\visual studio 2015\Projects\DebugSeven1\DebugSeven1\obj\Debug\DebugSeven1.csprojResolveAssemblyReference.cache
+c:\users\cleveland codes\documents\visual studio 2015\Projects\DebugSeven1\DebugSeven1\bin\Debug\DebugSeven1.exe
+c:\users\cleveland codes\documents\visual studio 2015\Projects\DebugSeven1\DebugSeven1\bin\Debug\DebugSeven1.pdb
+c:\users\cleveland codes\documents\visual studio 2015\Projects\DebugSeven1\DebugSeven1\obj\Debug\DebugSeven1.exe
+c:\users\cleveland codes\documents\visual studio 2015\Projects\DebugSeven1\DebugSeven1\obj\Debug\DebugSeven1.pdb

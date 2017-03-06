@@ -1,0 +1,2 @@
+c:\users\cleveland codes\documents\visual studio 2015\Projects\Debug11\Debug11\bin\Debug\Debug11.exe.config
+c:\users\cleveland codes\documents\visual studio 2015\Projects\Debug11\Debug11\obj\Debug\Debug11.csprojResolveAssemblyReference.cache

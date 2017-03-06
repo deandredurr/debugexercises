@@ -1,0 +1,2 @@
+c:\users\cleveland codes\documents\visual studio 2015\Projects\debug3\debug3\bin\Debug\debug3.exe.config
+c:\users\cleveland codes\documents\visual studio 2015\Projects\debug3\debug3\obj\Debug\debug3.csprojResolveAssemblyReference.cache

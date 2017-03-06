@@ -1,0 +1,5 @@
+c:\users\cleveland codes\documents\visual studio 2015\Projects\Abstraction\Abstraction\bin\Debug\Abstraction.exe.config
+c:\users\cleveland codes\documents\visual studio 2015\Projects\Abstraction\Abstraction\bin\Debug\Abstraction.exe
+c:\users\cleveland codes\documents\visual studio 2015\Projects\Abstraction\Abstraction\bin\Debug\Abstraction.pdb
+c:\users\cleveland codes\documents\visual studio 2015\Projects\Abstraction\Abstraction\obj\Debug\Abstraction.exe
+c:\users\cleveland codes\documents\visual studio 2015\Projects\Abstraction\Abstraction\obj\Debug\Abstraction.pdb
