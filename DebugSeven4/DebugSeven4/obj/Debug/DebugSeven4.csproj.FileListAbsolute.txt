@@ -1,1 +1,2 @@
 c:\users\cleveland codes\documents\visual studio 2015\Projects\DebugSeven4\DebugSeven4\bin\Debug\DebugSeven4.exe.config
+C:\Users\Cleveland Codes\Desktop\GitPros\Git Debugs\DebugSeven4\DebugSeven4\bin\Debug\DebugSeven4.exe.config
